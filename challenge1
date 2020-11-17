@@ -1,0 +1,10 @@
+1. Buatlah Controller baru dengan nama Pegawai
+2. Buatlah class pegawai dari controller tadi
+3. Buatlah view dengan nama Pegawai_v dan buat form dengan inputan
+      a. Nama pegawai
+      b. Lama bekerja
+      c. Tanggungan anak
+4. buatlah proses method untuk memproses form inputan di atas ketika di submit untuk menampilkan data yang dikirimkan view di method proses
+      a. Nama pegawai
+      b. Lama bekerja
+      c. Tanggungan anak
